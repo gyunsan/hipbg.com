@@ -9,24 +9,24 @@ export default function Kontakti() {
                         <div>
                             <h2 className="text-3xl font-bold tracking-tight text-gray-900">Свържете се с нас</h2>
                             <p className="mt-4 leading-7 text-gray-600">
-                                Quam nunc nunc eu sed. Sed rhoncus quis ultricies ac pellentesque.
+                            Всеки може да се обърне за помощ към фондация ХИП-България
                             </p>
                         </div>
                         <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:col-span-2 lg:gap-8">
                             <div className="rounded-2xl bg-gray-50 p-10">
-                                <h3 className="text-base font-semibold leading-7 text-gray-900">Ръководство</h3>
+                                <h3 className="text-base font-semibold leading-7 text-gray-900">Олга Тушева</h3>
                                 <dl className="mt-3 space-y-1 text-sm leading-6 text-gray-600">
                                     <div>
-                                        <dt className="sr-only">Email</dt>
+                                        <dt className="sr-only">Имейл</dt>
                                         <dd>
                                             <a className="font-semibold text-indigo-600" href="mailto:collaborate@example.com">
-                                                collaborate@example.com
+                                            hip.bulgaria.ruse@gmail.com
                                             </a>
                                         </dd>
                                     </div>
                                     <div className="mt-1">
-                                        <dt className="sr-only">Phone number</dt>
-                                        <dd> (+359) 0888888888</dd>
+                                        <dt className="sr-only">Телефон</dt>
+                                        <dd>0896660142 </dd>
                                     </div>
                                 </dl>
                             </div>

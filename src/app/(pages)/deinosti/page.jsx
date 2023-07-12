@@ -3,27 +3,33 @@ import { ChatBubbleOvalLeftEllipsisIcon, HeartIcon, PencilSquareIcon, TrashIcon 
 
 const features = [
     {
-        name: 'Помощ за Украйна',
+        name: 'Закупуване на Хранителни Продукти',
         description:
-            'Autem reprehenderit aut debitis ut. Officiis harum omnis placeat blanditiis delectus sint vel et voluptatum. Labore asperiores non corporis molestiae.',
+            'Събиране и разпределяне на пакетирани хранителни продукти в срок на годност според нуждите на самотни родители, многодетни семейства, сираци и вдовици.',
         icon: HeartIcon,
     },
     {
-        name: 'Грижа за деца',
+        name: 'Първи Учебен Ден',
         description:
-            'Illum et aut inventore. Ut et dignissimos quasi. Omnis saepe dolorum. Hic autem fugiat. Voluptatem officiis necessitatibus est.',
+            'Кампания в помощ на деца за първия учебен ден - набиране и разпределяне на ученически пособия, раници, спортни екипи и обувки.',
         icon: HeartIcon,
     },
     {
-        name: 'Социална ангажираност',
+        name: 'Осигуряване на Дрехи',
         description:
-            'Commodi quam quo. In quasi mollitia optio voluptate et est reiciendis. Ut et sunt id officiis vitae perspiciatis. Et accusantium sapiente.',
+            'Кампания за събиране на запазени дрехи втора употреба и транспортиране до пунктове за разпределяне в други населени места в област Русе.',
         icon: HeartIcon,
     },
     {
-        name: 'Помагане на хора в неравностойно положение',
+        name: 'Операция Рождествено Дете /ОРД/',
         description:
-            'Deserunt corrupti praesentium quo vel cupiditate est occaecati ad. Aperiam libero modi similique iure praesentium facilis quo cumque quibusdam.',
+            'Работа с деца в училища, детски градини, читалища, библиотеки по проект Операция Рождествено Дете, възпитавайки християнски ценности и морал.',
+        icon: HeartIcon,
+    },
+    {
+        name: 'Помощ към Бежанци',
+        description:
+            'Кампания в подкрепа на бежанци от войната, намерили убежище в град Русе. Подпомагането включва хранителни продукти, дрехи и обувки, хигиенни материали, помощ свързана с адаптация към средата - услуги за приобщаване към културната среда.',
         icon: HeartIcon,
     },
 ]

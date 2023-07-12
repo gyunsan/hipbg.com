@@ -5,7 +5,7 @@ export default function Darenie() {
     return (
         <div className="relative isolate overflow-hidden bg-gray-900 px-6 py-24 sm:py-32 lg:px-8">
             <img
-                src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-y=.8&w=2830&h=1500&q=80&blend=111827&sat=-100&exp=15&blend-mode=multiply"
+                src="https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&crop=focalpoint&fp-y=.8&w=2830&h=1500&q=80&blend=111827&sat=-100&exp=15&blend-mode=multiply"
                 alt=""
                 className="absolute inset-0 -z-10 h-full w-full object-cover"
             />
@@ -36,8 +36,7 @@ export default function Darenie() {
             <div className="mx-auto max-w-2xl text-center">
                 <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">Подкрепи ни с дарение</h2>
                 <p className="mt-6 text-lg leading-8 text-gray-300">
-                    Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-                    fugiat veniam occaecat fugiat aliqua.
+                В основание за превод моля да посочите за коя кампания желаете да се използват средствата - Закупуване На Хранителни Продукти, Първи Учебен Ден, Осигуряване На Дрехи, Операция Рождествено Дете, Помощ Към Бежанци
                 </p>
             </div>
             <div className="text-center py-10">         
