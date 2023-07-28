@@ -14,7 +14,7 @@ export default function ZaNas() {
                         </p>
                         <div className="mt-10 flex">
                             <a
-                                href="/dobrovolcheska-programa"
+                                href="/kontakti"
                                 className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                             >
                                 Стани част от нас <span aria-hidden="true">&rarr;</span>
@@ -24,7 +24,7 @@ export default function ZaNas() {
                     <div className="flex flex-wrap items-start justify-end gap-6 sm:gap-8 lg:contents">
                         <div className="w-0 flex-auto lg:ml-auto lg:w-auto lg:flex-none lg:self-end">
                             <img
-                                src="/andi.jpg"
+                                src="https://images.unsplash.com/photo-1643321613219-6d50e1372c0a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80"
                                 alt=""
                                 className="aspect-[7/5] w-[37rem] max-w-none rounded-2xl bg-gray-50 object-cover"
                             />
@@ -32,14 +32,14 @@ export default function ZaNas() {
                         <div className="contents lg:col-span-2 lg:col-end-2 lg:ml-auto lg:flex lg:w-[37rem] lg:items-start lg:justify-end lg:gap-x-8">
                             <div className="order-first flex w-64 flex-none justify-end self-end lg:w-auto">
                                 <img
-                                    src="/notebooks.jpg"
+                                    src="https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
                                     alt=""
                                     className="aspect-[4/3] w-[24rem] max-w-none flex-none rounded-2xl bg-gray-50 object-cover"
                                 />
                             </div>
                             <div className="flex w-96 flex-auto justify-end lg:w-auto lg:flex-none">
                                 <img
-                                    src="/school.jpg"
+                                    src="https://images.unsplash.com/photo-1593113598332-cd288d649433?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
                                     alt=""
                                     className="aspect-[7/5] w-[37rem] max-w-none flex-none rounded-2xl bg-gray-50 object-cover"
                                 />

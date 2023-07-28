@@ -33,7 +33,7 @@ export default function Kontakti() {
 
                         </div>
                     </div>
-                    <div className="grid grid-cols-1 gap-x-8 gap-y-10 pt-16 lg:grid-cols-3">
+                    {/* <div className="grid grid-cols-1 gap-x-8 gap-y-10 pt-16 lg:grid-cols-3">
                         <div>
                             <h2 className="text-3xl font-bold tracking-tight text-gray-900">Адрес</h2>
                             <p className="mt-4 leading-7 text-gray-600">
@@ -56,7 +56,7 @@ export default function Kontakti() {
                             </div>
 
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>

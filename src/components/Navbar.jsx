@@ -27,11 +27,11 @@ export default function Navbar() {
             </a>
           ))}
         </div>
-        <div className="hidden lg:flex lg:flex-1 lg:justify-end">
+        {/* <div className="hidden lg:flex lg:flex-1 lg:justify-end">
           <a href="/dobrovolcheska-programa" className="text-sm font-semibold leading-6 text-gray-900">
           Доброволческа програма <span aria-hidden="true">&rarr;</span>
           </a>
-        </div>
+        </div> */}
         <MobileMenu />
 
       </nav>

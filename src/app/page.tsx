@@ -8,7 +8,7 @@ export default function Home() {
     <><Hero />
 
 
-      <div className='flex ... justify-center py-7'>
+      {/* <div className='flex ... justify-center py-7'>
         <div className="rounded">
           <Image src="/smile.jpg" alt="Burger"  width={300} height={400}/>
         </div>
@@ -18,7 +18,7 @@ export default function Home() {
         <div className="rounded">
           <Image src="/street.jpg" alt="Burger" width={300} height={400}/>
         </div>
-      </div>
+      </div> */}
 
       
     </>

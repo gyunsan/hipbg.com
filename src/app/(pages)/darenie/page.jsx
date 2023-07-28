@@ -41,7 +41,14 @@ export default function Darenie() {
             </div>
             <div className="text-center py-10">         
 </div>
-<PayPal  />
+
+<div className='text-2xl text-white text-center'>
+    <p>Дарителска сметка на Фондация ХИП-България</p>
+    <p><strong>iban:</strong>  BG65 FINV 9150 1216 0111 32</p>
+</div>
+{/* <PayPal  /> */}
+
+
         </div>
         
     )
