@@ -43,7 +43,7 @@ export default function Footer() {
                     <p className="text-center text-xs leading-5 text-gray-500">
                        
                     <span>
-               Copyright &copy; {new Date().getFullYear()} HIP Bulgaria
+               Copyright &copy; 2024 HIP Bulgaria
               </span>
                     </p>
                 </div>
